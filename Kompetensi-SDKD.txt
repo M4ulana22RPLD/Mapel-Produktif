@@ -4,5 +4,5 @@ Kompetensi SDKD
  *Line
 -Komunikasi Daring Asinkron
  *Email
--Github
--Git
++Github
++Git
