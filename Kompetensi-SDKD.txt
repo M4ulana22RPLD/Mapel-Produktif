@@ -1,0 +1,8 @@
+Kompetensi SDKD
+
+-Komunikasi Daring Sinkron
+ *Line
+-Komunikasi Daring Asinkron
+ *Email
+-Github
+-Git
